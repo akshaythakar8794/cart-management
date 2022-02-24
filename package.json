@@ -1,0 +1,29 @@
+{
+  "name": "cart-management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ShoppingCart.js",
+  "scripts": {
+    "start": "babel-node ShoppingCart.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshaythakar8794/cart-management.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshaythakar8794/cart-management/issues"
+  },
+  "homepage": "https://github.com/akshaythakar8794/cart-management#readme",
+  "dependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.5",
+    "@babel/node": "^7.16.8",
+    "@babel/preset-env": "^7.16.11"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
